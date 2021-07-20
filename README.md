@@ -7,3 +7,5 @@ and was modified by Reesa Keskar, using SQL commands.
  
 The earthquakes were classified as Minor, Light, Moderate, Strong, or Major based on their magnitude, as shown at: http://www.geo.mtu.edu/UPSeis/magnitude.html.
 
+To view the SQL File, copy the code into SQLite using the command line or paste the code into a SQLite Database browser
+To view the graphs made with Python, open the file in the command line by navigating to the appropriate director and typing python3 SQL_project_Graphs.py
